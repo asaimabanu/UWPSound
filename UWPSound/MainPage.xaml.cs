@@ -26,5 +26,26 @@ namespace UWPSound
         {
             this.InitializeComponent();
         }
+
+        private void MenuItemsListView_ItemClick(object sender, ItemClickEventArgs e)
+        {
+
+        }
+
+        
+        private void SoundGridView_ItemClick(object sender, ItemClickEventArgs e)
+        {
+
+        }
+
+        private void HamburgerButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BackButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
